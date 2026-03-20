@@ -47,11 +47,11 @@ Execute a classe BibliotecaApplication via IntelliJ ou Maven.
 2. Configurar o Front-end
 Acesse a pasta biblioteca.
 
-Instale as dependências: npm.cmd install.
+Instale as dependências: npm install.
 
-Inicie o servidor de desenvolvimento: npm run dev.
+Inicie o servidor de desenvolvimento: npm.cmd run dev.
 
-Acesse http://localhost:3000.
+Por fim acesse: http://localhost:3000.
 
 👨‍💻 Autores:
 Bruno Lima Amaral - Estudante de Engenharia/TI - 4º Semestre
